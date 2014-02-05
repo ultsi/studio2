@@ -2,7 +2,8 @@
 *.log
 
 # eclipse
-*.cache
+.cache
+.metadata/*
 
 # sbt specific
 dist/*
